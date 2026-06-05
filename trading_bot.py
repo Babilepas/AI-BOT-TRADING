@@ -44,7 +44,7 @@ SYMBOL     = "HYPE/USDT:USDT"
 TIMEFRAME  = "5m"
 LEVERAGE   = 5
 MARGIN_MODE = "isolated"   # "isolated" or "cross"
-USDT_AMOUNT = 20           # collateral per trade (leverage applied on top)
+USDT_AMOUNT = 3           # collateral per trade (leverage applied on top)
 
 POLL_INTERVAL_SEC  = 300   # 5 minutes — matches candle timeframe
 ERROR_SLEEP_SEC    = 60
