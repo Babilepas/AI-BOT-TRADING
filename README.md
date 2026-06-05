@@ -12,7 +12,7 @@ Automated perpetual futures bot running on Bitget with a **RSI-14 + EMA-200** st
 | **BUY signal** | RSI crosses UP through 30 (oversold exit) AND price is above EMA-200 |
 | **SELL signal** | RSI crosses DOWN through 70 (overbought exit) AND price is below EMA-200 |
 | **Timeframe** | 5 minutes |
-| **Leverage** | x5 isolated margin |
+| **Leverage** | x3 isolated margin |
 | **Stop-Loss** | 1% from entry |
 | **Take-Profit** | 2% from entry |
 | **Risk/Reward** | 1:2 |
