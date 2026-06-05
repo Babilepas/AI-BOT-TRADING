@@ -42,7 +42,7 @@ PASSPHRASE = os.getenv("BITGET_PASSPHRASE")
 # Futures symbol uses the  BASE/QUOTE:SETTLE  notation in ccxt
 SYMBOL     = "HYPE/USDT:USDT"
 TIMEFRAME  = "5m"
-LEVERAGE   = 5
+LEVERAGE   = 3
 MARGIN_MODE = "isolated"   # "isolated" or "cross"
 USDT_AMOUNT = 3           # collateral per trade (leverage applied on top)
 
